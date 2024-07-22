@@ -6,5 +6,5 @@ Predicting airline flight prices, including:
 - Training Regression Model
 - Evaluating Regression Model
 - Hyperparameter Tuning
--   Grid Search
--   Randomized Search
+-- Grid Search
+-- Randomized Search
